@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book Nook</string>
+
+    <!-- Text to display in the list when there are no books [CHAR LIMIT=NONE] -->
+    <string name="no_books">No books found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="search_hint">"Enter a search term here"</string>
+
+    <string name="search">"Search"</string>
+
+    <string name="null_search">"You need to enter a search term"</string>
+
+</resources>
